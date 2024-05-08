@@ -5,6 +5,9 @@
 - olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей
 - olist_orders_dataset.csv — таблица заказов
 - olist_order_items_dataset.csv — товарные позиции, входящие в заказы
+  
+## Использованные библиотеки:
+pandas, numpy, datetime, matplotlib, seaborn
 
 ## В ходе анализа были найдены ответы на следующие вопросы:
 
